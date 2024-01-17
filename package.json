@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.ts",
   "scripts": {
-    "build": "netlify deploy --prod",
-    "start": "ts-node functions/index.ts"
+    "start": "ts-node index.ts"
   },
   "author": "",
   "license": "ISC",
